@@ -40,7 +40,7 @@ const yashasviAgarwal = {
 Data analytics tasks completed during the Oasis Infobyte internship, covering data cleaning, EDA, and visualization using Python.
 
 <a href="https://github.com/yasashviagarwal01-coder/OIBSIP_Data_Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasashviagarwal01-coder&repo=OIBSIP_Data_Analytics&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasashviagarwal01-coder&repo=OIBSIP_Data_Analytics&theme=radical&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 </a>
 
 | Layer         | Technology     |
@@ -58,7 +58,7 @@ Data analytics tasks completed during the Oasis Infobyte internship, covering da
 A content recommendation project exploring how Netflix-style recommendation engines work, built with Python-based ML techniques.
 
 <a href="https://github.com/yasashviagarwal01-coder/Netflix-Recommendation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasashviagarwal01-coder&repo=Netflix-Recommendation-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasashviagarwal01-coder&repo=Netflix-Recommendation-System&theme=radical&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 </a>
 
 | Layer         | Technology     |
@@ -89,14 +89,14 @@ A content recommendation project exploring how Netflix-style recommendation engi
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yasashviagarwal01-coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasashviagarwal01-coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api?username=yasashviagarwal01-coder&show_icons=true&theme=radical&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&include_all_commits=true&count_private=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasashviagarwal01-coder&layout=compact&theme=radical&border_color=7dd3fc&title_color=7dd3fc&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com/?user=yasashviagarwal01-coder&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com/?user=yasashviagarwal01-coder&theme=radical&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&background=1a1b27" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasashviagarwal01-coder&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=yasashviagarwal01-coder&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasashviagarwal01-coder&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasashviagarwal01-coder&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true" />
 
 ---
 
@@ -111,3 +111,7 @@ A content recommendation project exploring how Netflix-style recommendation engi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" />
 
 </div>
+
+
+
+
